@@ -4,6 +4,8 @@ Md. Rony Shaikh
 Department of Computer Science & Engineering
 BSMRSTU. 
 
+[The Project Source code and Presentation files are available here..] (https://github.com/skrony013/Sentiment-Analysis-of-bangla-textual-movie-reviews-based-on-machine-learning-approach-)
+
 # Introduction
 With the appearance of social networking and internet, Sentiment Analysis is getting one of the most significant research regions for prediction and classification. The analysis of the each single textual movie review in manual mode is complicated and exhausting. An automated system can release us from such type of complication. Hence we proposed an automated system called Sentiment Analysis (SA) that is the technique of extracting opinions, emotions from textual data in Bangla language to develop such a system.
 
